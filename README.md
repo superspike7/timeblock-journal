@@ -1,24 +1,14 @@
-# README
+# Timeblock Journal
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Timeblock Journal is an opensource time management application inspired by the concept of DeepWork
+by Cal Newport.
 
-Things you may want to cover:
+## Todo
 
-* Ruby version
+- [ ] setup dependencies
+  - [ ] Tailwind
+  - [ ] Hotwire
+  - [ ] Rspec
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
