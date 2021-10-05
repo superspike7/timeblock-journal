@@ -4,6 +4,7 @@
 - [ ] Tailwindcss
 - [ ] Hotwire
 - [ ] Rspec
+- [ ] view component
 
 ## Features
 - [ ] Manage Daily Timeblock Tasks
@@ -19,3 +20,11 @@
   - [ ] Monthly Review
   - [ ] Yearly Review
   - [ ] Custom Time duration Review
+
+- [ ] Score Board
+  - [ ] Daily Timeblock Streak Tally 
+  - [ ] Daily Deepwork Hours Tally 
+  - [ ] Weekly Deepwork Hours Tally 
+  - [ ] Monthly Deepwork Hours Tally 
+  - [ ] Yearly Deepwork Hours Tally 
+  - [ ] Total Deepwork Hours Tally 
