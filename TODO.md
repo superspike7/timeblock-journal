@@ -1,10 +1,12 @@
 # Todo
 
 ## Setup
-- [ ] Tailwindcss
-- [ ] Hotwire
-- [ ] Rspec
-- [ ] view component
+- [x] cssbundle 
+- [x] Tailwindcss
+- [x] jsbundle
+- [x] Hotwire
+- [x] Rspec
+- [x] view component
 
 ## Features
 - [ ] Manage Daily Timeblock Tasks
@@ -28,3 +30,9 @@
   - [ ] Monthly Deepwork Hours Tally 
   - [ ] Yearly Deepwork Hours Tally 
   - [ ] Total Deepwork Hours Tally 
+
+- [ ] Streak Counter
+  - [ ] Daily Win Streak 
+  - [ ] Morning Win Streak 
+  - [ ] Afternoon Win Streak 
+  - [ ] Weekly Streak 
